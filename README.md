@@ -195,22 +195,6 @@ Les connexions bloquées (notamment FTP port 21) doivent apparaître dans les lo
 
 
 
----
-
-## 📁 Structure du repo
-
-```
-.
-├── README.md
-├── screenshots/         ← Dossier pour vos captures d'écran
-│   ├── virtualbox-network-config.png
-│   ├── pfsense-webui.png
-│   ├── firewall-rules.png
-│   ├── nmap-scan.png
-│   ├── ftp-blocked.png
-│   └── firewall-logs.png
-└── configs/             ← Optionnel : exports de config pfSense
-```
 
 ---
 
